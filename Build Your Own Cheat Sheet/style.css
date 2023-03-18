@@ -1,0 +1,51 @@
+body {
+    font-family: Garamond, sans-serif;
+    background-color: gainsboro;
+    font-weight: medium;
+  }
+  
+  h1 {
+    font-family: Serif;
+    text-align: center;
+    font-size: 40px;
+  }
+  
+  h2 {
+    font-family: Serif;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    border: 2px solid darkblue;
+    margin: 0 auto;
+    font-size: 21px;
+  }
+  
+  thead {
+    
+    background-color: skyblue;
+    font-weight: bold;
+  }
+  
+  th {
+    border: 1px solid darkblue;
+    padding: 10px;
+  }
+  
+  td {
+    border: 1px solid darkblue;
+    font-size: 18px;
+  }
+  
+  
+  .code {
+    font-family: monospace;
+    background-color: beige;
+    font-weight: bold;
+    font-size: 16px;
+    padding-right: 20px;
+  }
